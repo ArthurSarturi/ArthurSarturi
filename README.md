@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--
+## FALAE CUZÃO 👋
 **ArthurSarturi/ArthurSarturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @pornhub
 - 😄 Pronouns: Pronomes: ELO DELO
 - ⚡ Fun fact: Pronomes: ELO DELO tgld
--->
+
